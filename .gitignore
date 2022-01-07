@@ -31,3 +31,5 @@ src/CMakeFiles/main.dir/DependInfo.cmake
 src/CMakeFiles/main.dir/flags.make
 src/CMakeFiles/main.dir/link.txt
 src/CMakeFiles/main.dir/progress.make
+
+!build/autobuild.sh
