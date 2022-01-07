@@ -1,0 +1,19 @@
+=====================================================================
+==========================the 1 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 2 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 3 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 4 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 5 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 6 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 7 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 8 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+==========================the 9 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet

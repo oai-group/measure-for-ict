@@ -1,0 +1,28 @@
+===================================================================
+==========================the 1 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10200.00	    10.20
+==========================the 2 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10000.00	    10.00
+==========================the 3 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10000.00	    10.00
+==========================the 4 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10200.00	    10.20
+==========================the 5 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10000.00	    10.00
+==========================the 6 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10000.00	    10.00
+==========================the 7 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10200.00	    10.20
+==========================the 8 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10000.00	    10.00
+==========================the 9 statisics============================
+index		Src IP		  Dst IP	Protocolt	Src port	Dst port	Total Byte	Total Packet
+  1 :        20.  0.  0.193    10.170.  7.122     UDP	    57644	    24005	 0 1 1      10000.00	    10.00
